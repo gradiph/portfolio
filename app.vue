@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtWelcome />
-    {{ $t('welcome') }}
+    {{ $t('welcome') }} <Icon name="ic:baseline-abc" />
   </div>
 </template>
