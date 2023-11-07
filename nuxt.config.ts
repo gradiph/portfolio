@@ -4,6 +4,7 @@ import { defineNuxtConfig } from 'nuxt/config'
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
+    '@nuxt/ui',
     '@nuxtjs/eslint-module',
     '@nuxtjs/i18n',
     '@nuxtjs/robots',
