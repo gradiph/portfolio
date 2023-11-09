@@ -1,13 +1,13 @@
 <template>
-  <div class="header">
+  <header>
     <a href="/">
       <img src="~/assets/favicon.svg" alt="Logo">
     </a>
-  </div>
+  </header>
 </template>
 
 <style scoped lang="postcss">
-.header {
+header {
   @apply fixed;
 }
 </style>

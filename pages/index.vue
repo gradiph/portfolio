@@ -18,7 +18,7 @@
 const { t } = useI18n()
 
 useHead({
-  title: t(`Gradi's Portfolio`)
+  title: t('Gradi\'s Portfolio')
 })
 </script>
 

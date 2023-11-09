@@ -1,8 +1,8 @@
 <template>
   <div class="text-hero">
-    <slot></slot>
+    <slot />
     <div class="subtitle">
-      <slot name="subtitle"></slot>
+      <slot name="subtitle" />
     </div>
   </div>
 </template>
